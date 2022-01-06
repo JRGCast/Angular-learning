@@ -4,3 +4,6 @@
 [submodule "angular-app2-tic-tacToe"]
 	path = angular-app2-tic-tacToe
 	url = https://github.com/JRGCast/angular-app2-tictactoe
+[submodule "angular-app3-urbanBird"]
+	path = angular-app3-urbanBird
+	url = https://github.com/JRGCast/angular-app3-urbanBird
