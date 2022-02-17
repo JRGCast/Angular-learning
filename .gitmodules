@@ -10,3 +10,6 @@
 [submodule "angular-app4-instagramClone"]
 	path = angular-app4-instagramClone
 	url = https://github.com/JRGCast/angular-app4-instagram-clone
+[submodule "Testing-jasmine-karma"]
+	path = Testing-jasmine-karma
+	url = https://github.com/JRGCast/Testing-jasmine-karma
