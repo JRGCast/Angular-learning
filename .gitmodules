@@ -13,3 +13,6 @@
 [submodule "Testing-jasmine-karma"]
 	path = Testing-jasmine-karma
 	url = https://github.com/JRGCast/Testing-jasmine-karma
+[submodule "angular-n-rxjs"]
+	path = angular-n-rxjs
+	url = https://github.com/JRGCast/angular-n-rxjs
